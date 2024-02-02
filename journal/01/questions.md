@@ -53,8 +53,9 @@
     I was not confident with 'flex' 'justify-content' or 'align-items' until the lily-pap frogs warm-up.
 
 11. What `CSS` properties affect the size of a box model?
-    > height and width. 
-    padding and margin also have a play in how a box model will interact with other box objects. 
+    > content
+    height and width when defined
+    border, padding and margin also have a play in how a box model will interact with other box objects. 
 
 12. Did I wait to do this last minute?
     > Maybe 
