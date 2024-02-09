@@ -24,7 +24,7 @@ __Bold__
 
 **Bold**
 
-~~Strikethrough~~
+~~Strike through~~
 
 # **Lists**
 * Unordered 
