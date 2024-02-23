@@ -56,7 +56,7 @@
     size: 586,000
     country: "The United States"
     // there might be multiple ways to describe the climate in a specific place, but most descriptions can be applied to other places as well
-    // Minesotta might also be cold and wet, where florida might be hot and wet.
+    // Minnesota might also be cold and wet, where florida might be hot and wet.
     climate: ["cold", "wet"]
   }
   ```

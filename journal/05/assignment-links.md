@@ -1,6 +1,6 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/sethkunzler/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/sethkunzler/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/sethkunzler/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/sethkunzler/<ASSIGNMENT_REPO>)**
+* **[Burger Shack](https://github.com/sethkunzler/<ASSIGNMENT_REPO>)**
+* **[Greg's List](https://github.com/sethkunzler/winter24_gregslist_api)**
+* **[Da Space](https://github.com/sethkunzler/<ASSIGNMENT_REPO>)**
+ **[](https://github.com/sethkunzler/<ASSIGNMENT_REPO>)**
