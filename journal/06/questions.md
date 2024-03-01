@@ -1,11 +1,11 @@
 # Single Page Applications with Vue
 01. What is the entrypoint of an application?
 
-  > it's where we spin up or run an application from i.e. index.html or app.vue
+  > it's where we spin up or run an application from i.e. index.html or main.js
 
 02. What is the difference between a vue `component` and `page`?
 
-  > a component is a small part of the app that can be outsourced where a page will contain all the content or refrences to the content displayed to the user on a single page.
+  > a page is mounted directly onto the router
 
 03. What is ***Component-Based Architecture***?
 
@@ -24,7 +24,7 @@
    
 06. Which component in Vue does the vue-router use to mount pages onto?
 
-  > App.vue
+  > router.js
 
 07. What is the difference between the `AppState` and the state object within a component?
 
