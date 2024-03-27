@@ -55,6 +55,9 @@
 10. In SQL how can you query more than a single table? Provide an example.
 
   > by using a join operation 
-  ```cs 
-  SELECT table1.collumn1, table2.collumn2 FROM table1, table2 WHERE table1.column1 = table2.collumn2
+  i.e. 
+  movies (id, title)
+  boxoffice (movie_id, domestic_sales, international_sales)
+  ```cs
+  SELECT title, domestic_sales, international_sales FROM movies, boxoffice WHERE movies.id = boxoffice.movie_id;
   ```
