@@ -1,5 +1,5 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/sethkunzler/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/sethkunzler/<ASSIGNMENT_REPO>)**
-* **[Repo](https://github.com/sethkunzler/<ASSIGNMENT_REPO>)**
+* **[Chore Score](https://github.com/sethkunzler/chore_score)**
+* **[Greg's List](https://github.com/sethkunzler/gregslist_week9)**
+* **[All Spice](https://github.com/sethkunzler/checkpoint_wk10)**
