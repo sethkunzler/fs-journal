@@ -1,4 +1,3 @@
 ## Afternoon Assignment Links
 
-* **[Repo](https://github.com/sethkunzler/<ASSIGNMENT_REPO>)**
-
+* **[Final](https://github.com/sethkunzler/<ASSIGNMENT_REPO>)**
