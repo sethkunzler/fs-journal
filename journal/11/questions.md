@@ -1,7 +1,7 @@
 # A bit more CSharp and SQL
 1. What does ***inheritance*** accomplish for us in C#?
 
-  > Inheritence is when one class takes on the attributes, methods and members of another. In C# it means that  we can do fun things like 
+  > Inheritance is when one class takes on the attributes, methods and members of another. In C# it means that  we can do fun things like 
   ``` cs
   <!-- RepoItem.cs -->
   namespace thisProjectName.Models;
