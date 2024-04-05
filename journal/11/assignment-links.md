@@ -1,3 +1,3 @@
 ## Afternoon Assignment Links
 
-* **[Final](https://github.com/sethkunzler/<ASSIGNMENT_REPO>)**
+* **[All Spice](https://github.com/sethkunzler/checkpoint_wk10)
